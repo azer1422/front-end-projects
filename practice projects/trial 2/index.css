@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+
+#myData{
+    background-color: rgb(255, 255, 255);
+    color:#0815ab;
+    padding: 24px;
+    font-family: 'Courier New', Courier, monospace ;
+
+    
+}
+h2{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 30px;
+    position: centered;
+    color:#093f9b;
+    padding:20px ;
+}
+
